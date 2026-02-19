@@ -1,7 +1,19 @@
 # Smart Productivity Coach API
 
 ## Description
-API intelligente permettant aux étudiants d'améliorer leur productivité grâce à une analyse IA.
+Smart Productivity Coach est une API développée avec **FastAPI** intégrant une intelligence artificielle (OpenAI) afin d’aider les étudiants à améliorer leur organisation, leur discipline et leur gestion du temps.
+
+L’API ne se contente pas de stocker des données :  
+elle analyse les tâches, calcule la charge mentale, génère des plans intelligents et fournit un retour personnalisé basé sur l’IA.
+
+## Problème Résolu
+
+Les étudiants :
+
+- Procrastinent
+- Ont du mal à prioriser
+- Sous-estiment le temps nécessaire
+- Manquent de discipline
 
 ## Fonctionnalités
 - Génération de planning intelligent
@@ -14,6 +26,7 @@ API intelligente permettant aux étudiants d'améliorer leur productivité grâc
 - FastAPI
 - OpenAI API
 - Python
+- Uvicorn
 
 ## Installation
 
