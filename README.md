@@ -10,36 +10,22 @@ elle analyse les tâches, calcule la charge mentale, génère des plans intellig
 Problème Résolu
 
 Les étudiants :
-
-
 Procrastinent
-
 Ont du mal à prioriser
-
 Sous-estiment le temps nécessaire
-
 Manquent de discipline
 
 Fonctionnalités
-
 Génération de planning intelligent
-
 Calcul de charge mentale
-
 Analyse de progression
-
 Score de productivité
-
 Historique des sessions
 
 Technologies
-
 FastAPI
-
 OpenAI API
-
 Python
-
 Uvicorn
 
 Installation
